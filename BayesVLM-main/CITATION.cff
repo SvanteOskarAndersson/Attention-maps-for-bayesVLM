@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or build upon this work, please cite it as below."
+preferred-citation:
+  type: article
+  title: "Post-hoc Probabilistic Vision-Language Models"
+  authors:
+    - family-names: "Baumann"
+      given-names: "Anton"
+    - family-names: "Li"
+      given-names: "Rui"
+    - family-names: "Klasson"
+      given-names: "Marcus"
+    - family-names: "Mentu"
+      given-names: "Santeri"
+    - family-names: "Karthik"
+      given-names: "Shyamgopal"
+    - family-names: "Akata"
+      given-names: "Zeynep"
+    - family-names: "Solin"
+      given-names: "Arno"
+    - family-names: "Trapp"
+      given-names: "Martin"
+  journal: "arXiv preprint arxiv:2412.06014"
+  year: 2024
